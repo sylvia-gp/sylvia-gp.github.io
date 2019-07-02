@@ -7,6 +7,12 @@ h1 {
     color: #2E8B57;
     background-image: url("../images/lush-fern.jpg");
     background-color: #6B8E23;
+    border-radius: 50%;
+    min-width: 150px;
+    max-width: 150px;
+    background-size: cover;
+    border: 10px solid #6B8E23;
+    padding: 15px 15px;
 }
 #intro {
     text-align: center;
