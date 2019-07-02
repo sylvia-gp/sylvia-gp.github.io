@@ -13,11 +13,16 @@ h1 {
     background-size: cover;
     border: 10px solid #6B8E23;
     padding: 15px 15px;
+    margin: 0 auto;
 }
 #intro {
     text-align: center;
     font-family: "rubik", sans-serif;
     color: #2E8B57;
+    border-radius: 25%;
+    border: 5px solid;
+    max-width: 350px;
+    display: inline-block;
 }
 #blog-entries {
     font-family: "roboto", sans-serif;
