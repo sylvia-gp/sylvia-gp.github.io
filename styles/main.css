@@ -1,10 +1,16 @@
 h1 {
     font-family: "vidaloka", serif;
     text-align: center;
-    color: #2E8B57
-    background-image: url("images/lush-fern.jpg") 
+    color: #2E8B57;
+    background-image: url("images/lush-fern.jpg")
 }
 img {
-    opacity: 0.5;
+    opacity: 0.75;
+    text-align: center;
 
+}
+.intro {
+    text-align: center;
+    font-family: "vidaloka", serif;
+    color: #2E8B57;
 }
