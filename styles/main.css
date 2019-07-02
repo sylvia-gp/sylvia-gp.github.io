@@ -1,3 +1,6 @@
+body {
+    background-color: #556B2F;
+}
 h1 {
     font-family: "rubik", sans-serif;
     text-align: center;
@@ -5,15 +8,14 @@ h1 {
     background-image: url("../images/lush-fern.jpg");
     background-color: #6B8E23;
 }
-img {
-    opacity: 0.75;
-    text-align: center;
-
-}
-.intro {
+#intro {
     text-align: center;
     font-family: "rubik", sans-serif;
     color: #2E8B57;
+}
+#blog-entries {
+    font-family: "roboto", sans-serif;
+    color: #8B4513;
 }
 div {
     text-align: center;
