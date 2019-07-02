@@ -1,8 +1,8 @@
 h1 {
-    font-family: "vidaloka", serif;
+    font-family: "rubik", sans-serif;
     text-align: center;
     color: #2E8B57;
-    background-image: url("images/lush-fern.jpg");
+    background-image: url("../images/lush-fern.jpg");
     background-color: #6B8E23;
 }
 img {
@@ -12,6 +12,6 @@ img {
 }
 .intro {
     text-align: center;
-    font-family: "vidaloka", serif;
+    font-family: "rubik", sans-serif;
     color: #2E8B57;
 }
