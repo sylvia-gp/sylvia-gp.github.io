@@ -18,6 +18,7 @@ h1 {
     max-height: 200px;
     min-height: 200px;
     text-shadow: -2px 0 #501f3a, 0 2px #501F3a, 2px 0 #501f3a, 0 -2px #501f3a;
+    padding-top: 100px;
 }
 #intro {
     text-align: center;
@@ -55,4 +56,9 @@ img {
 }
 footer {
     text-align: center;
+    margin: 50px;
+}
+ul {
+    width: 100px;
+    padding: 0px 150px;
 }
