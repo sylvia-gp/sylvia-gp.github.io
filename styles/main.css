@@ -22,14 +22,17 @@ h1 {
     border-radius: 25%;
     border: 5px solid;
     max-width: 350px;
+    min-width:350px;
     display: inline-block;
 }
 #blog-entries {
     font-family: "roboto", sans-serif;
     color: #8B4513;
+    display: block;
 }
-div {
-    text-align: center;
+img {
+    border-radius: 100%;
+    display: inline-block;
 }
 footer {
     text-align: center;
