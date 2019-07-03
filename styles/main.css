@@ -1,24 +1,24 @@
 body {
-    background-color: #556B2F;
+    background-color: #0F292F;
 }
 h1 {
     font-family: "rubik", sans-serif;
     text-align: center;
-    color: #2E8B57;
+    color: #CB2D6F;
     background-image: url("../images/lush-fern.jpg");
     background-color: #6B8E23;
     border-radius: 50%;
     min-width: 150px;
     max-width: 150px;
     background-size: cover;
-    border: 10px solid #6B8E23;
+    border: 7px solid #501F3A;
     padding: 15px 15px;
     margin: 0 auto;
 }
 #intro {
     text-align: center;
     font-family: "rubik", sans-serif;
-    color: #2E8B57;
+    color: #14A098;
     border-radius: 25%;
     border: 5px solid;
     max-width: 350px;
@@ -28,7 +28,7 @@ h1 {
 }
 #blog-entries {
     font-family: "roboto", sans-serif;
-    color: #8B4513;
+    color: #CB2D6F;
     display: block;
     text-align: center;
     max-width: 200px;
@@ -44,7 +44,7 @@ img {
     min-width: 250px;
     min-height: 200px;
     max-height: 200px;
-    border: 5px solid #2E8B57;
+    border: 5px solid #14A098;
 }
 #intro-imgs {
     text-align: center;
