@@ -62,3 +62,9 @@ ul {
     width: 100px;
     padding: 0px 150px;
 }
+a:link {
+    color: #483D8b;
+}
+a:visited {
+    color: #14A098;
+}
