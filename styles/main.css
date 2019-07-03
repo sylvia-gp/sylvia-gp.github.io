@@ -68,3 +68,10 @@ a:link {
 a:visited {
     color: #14A098;
 }
+.blog-title {
+    text-align: center;
+    font-family: "rubik", sans-serif;
+    color: #14A098;
+    border-radius: 25%;
+    border: 5px solid;
+}
