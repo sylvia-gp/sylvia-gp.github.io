@@ -58,7 +58,7 @@ footer {
     text-align: center;
     margin: 50px;
 }
-ul {
+ul #blog-entries {
     width: 100px;
     padding: 0px 150px;
 }
@@ -85,4 +85,12 @@ a:visited {
     padding-left: 10px;
     padding-right: 10px;
     font-family: "roboto", sans-serif;
+}
+.blog-paragraph {
+    text-align: center;
+    width: 500px;
+    margin: 40px auto;
+    border: 5px dotted #14a098;
+    color: #cb2d6f;
+    display: inline-block;
 }
