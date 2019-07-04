@@ -86,11 +86,11 @@ a:visited {
     padding-right: 10px;
     font-family: "roboto", sans-serif;
 }
-.blog-paragraph {
+p .blog-paragraph {
     text-align: center;
     width: 500px;
     margin: 40px auto;
     border: 5px dotted #14a098;
-    color: #cb2d6f;
+    color: #cd2d6f;
     display: inline-block;
 }
