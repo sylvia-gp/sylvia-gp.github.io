@@ -42,7 +42,7 @@ h1 {
     border: 5px dotted;
     padding: 20px 50px;
 }
-img {
+#intro-imgs img {
     border-radius: 25%;
     display: inline-block;
     max-width: 250px;
@@ -86,11 +86,9 @@ a:visited {
     padding-right: 10px;
     font-family: "roboto", sans-serif;
 }
-p .blog-paragraph {
-    text-align: center;
+.blog-paragraph {
     width: 500px;
     margin: 40px auto;
     border: 5px dotted #14a098;
     color: #cd2d6f;
-    display: inline-block;
 }
