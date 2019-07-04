@@ -87,8 +87,16 @@ a:visited {
     font-family: "roboto", sans-serif;
 }
 .blog-paragraph {
-    width: 500px;
+    width: 1250px;
     margin: 40px auto;
     border: 5px dotted #14a098;
     color: #cd2d6f;
+    margin: 10px auto;
+    font-family: "roboto", sans-serif;
+}
+.blog-paragraph img {
+    width: 580px;
+    text-align: center;
+    display: inline-block;
+    margin: 10px 20px;   
 }
