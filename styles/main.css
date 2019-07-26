@@ -35,12 +35,13 @@ h1 {
     font-family: "roboto", sans-serif;
     color: #CB2D6F;
     display: block;
-    text-align: center;
-    max-width: 400px;
+    text-align: left;
+    max-width: 500px;
     min-width: 200px;
     margin: 0 auto;
     border: 5px dotted;
     padding: 20px 50px;
+    margin-top: 20px;
 }
 #intro-imgs img {
     border-radius: 25%;
